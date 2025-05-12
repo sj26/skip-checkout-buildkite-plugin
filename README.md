@@ -10,7 +10,7 @@ Add the following to your `pipeline.yml`:
 steps:
   - command: ls
     plugins:
-      - skip-checkout-windowst#v1.0.0: ~
+      - skip-checkout-windows#v1.0.0: ~
 ```
 
 ## Configuration
