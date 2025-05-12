@@ -19,8 +19,5 @@ This plugin requires no configuration.
 
 ## Contributing
 
-1. Fork the repo
-2. Make the changes
-3. Run the tests
-4. Commit and push your changes
-5. Send a pull request
+Raise PR with your changes!
+
