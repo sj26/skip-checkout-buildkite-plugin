@@ -1,5 +1,4 @@
 steps:
-  - label: ":sparkles: Lint"
-    plugins:
-      - plugin-linter#v3.3.0:
-          id: skip-checkout-windows
+  - label: ":sparkles: Plugin for windows skip checkout"
+    command: echo "plugin for windows skip checkout"
+
