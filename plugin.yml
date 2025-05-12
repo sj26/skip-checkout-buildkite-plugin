@@ -1,0 +1,7 @@
+name: Skip Checkout for windows buildkite plugin
+description: Skips checkout for a step
+author: https://github.com/buildkite-plugins
+configuration:
+  properties: {}
+  required: []
+  additionalProperties: false
