@@ -1,0 +1,1 @@
+# skip-checkout-windows-buildkite-plugin
