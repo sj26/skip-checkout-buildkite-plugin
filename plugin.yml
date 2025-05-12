@@ -1,0 +1,9 @@
+name: Skip checkout windows
+description: Skips checkout for a step in windows agent
+author: https://github.com/buildkite-plugins
+requirements:
+  - bat
+configuration:
+  required:
+  additionalProperties: false
+

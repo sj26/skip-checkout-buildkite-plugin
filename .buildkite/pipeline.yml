@@ -1,0 +1,4 @@
+steps:
+  - label: ":sparkles: Plugin for windows skip checkout"
+    command: echo "plugin for windows skip checkout"
+
