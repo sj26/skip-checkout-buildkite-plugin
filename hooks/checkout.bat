@@ -1,5 +1,5 @@
 @echo off
 
-echo Skipping checkout!
+echo '--- Skipping git checkout'
 
 set BUILDKITE_REPO=""
